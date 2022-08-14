@@ -1,12 +1,11 @@
 # **Node JS Rest-API**
 
-<img src="https://i.postimg.cc/Z5tYYpL5/ss2.png" width="500">
+<img src="#" width="500">
 
 Simple Rest-API With Login System, Built using MongoDB, Express.js, and Node.js
 
-Demo App : https://zekais-restapi.herokuapp.com/
-
-Full App : https://zekais-api.herokuapp.com/
+Demo App:
+Full App:
 
 # Installation
 
@@ -17,8 +16,8 @@ Requirements
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/fawwaz37/nodejs-restapi.git
-> cd nodejs-restapi
+> git clone https://github.com/DrkBotBase/dylan-rest.git
+> cd dylan-rest
 ```
 Use `code .` to open file in VS Code
 ```cmd
@@ -49,7 +48,7 @@ module.exports = {
 
 ## How to Get recaptcha_key
 
-Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=6287715579966&text&app_absent=0)) How to get Recaptcha Key
+Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=573508770421&text&app_absent=0)) How to get Recaptcha Key
 
 ## How to Get Mongodb URI
 1. Sign In [Mongodb](https://www.mongodb.com/)
@@ -70,7 +69,7 @@ Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=6287715579966&text&a
 <img src="https://i.postimg.cc/6pW4wgW2/db.png" width="500">
 10. Copy and Paste in `settings.js`
 
-Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=6287715579966&text&app_absent=0)) if You Have Problem with mongodb
+Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=573508770421&text&app_absent=0)) if You Have Problem with mongodb
 
 ## Installing the dependencies
 ```cmd
@@ -84,7 +83,7 @@ Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=6287715579966&text&a
 
 Then Browse http://localhost:5000 . You will see the Homepage.
 
-<img src="https://i.postimg.cc/0jz5jC3b/ss.png" width="500">
+<img src="#" width="500">
 
 # Features
 
@@ -100,7 +99,7 @@ Then Browse http://localhost:5000 . You will see the Homepage.
 | Random Ptl           |  /ptl           |  apikey          |
 | Cak Lontong          |  /caklontong    |  apikey          |
 
-If you want to unlock Premium Feature, please contact me ([WhatsApp](https://api.whatsapp.com/send/?phone=6287715579966&text&app_absent=0))
+If you want to unlock Premium Feature, please contact me ([WhatsApp](https://api.whatsapp.com/send/?phone=573508770421&text&app_absent=0))
 
 |     Premium               |  Availability  |
 | :--------------:          | :------------: |
@@ -116,42 +115,4 @@ If you want to unlock Premium Feature, please contact me ([WhatsApp](https://api
 
 # Deploy Heroku
 
-Go to [Heroku](https://heroku.com) and Login
-
-Create New App ( App Name For Example : abcd-api)
-
-<img src="https://i.postimg.cc/Z5T8Btw2/newapp.png" width="300">
-
-Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
-
-Open `CMD` and Login Heroku
-
-```cmd
-> heroku login
-```
-
-Initialize a git repository in a new or existing directory
-
-```cmd
-> cd nodejs-restapi
-> git init
-```
-
-Remote Your App, Use `heroku git:remote -a app-name`
-
-```cmd
-> heroku git:remote -a abcd-api
-```
-
-Commit your code to the repository and deploy it to Heroku using Git.
-
-```cmd
-> git add .
-> git commit -am "make it better"
-> git push heroku master
-```
-
-Log Success
-
-<img src="https://i.postimg.cc/j5bzy0NP/deploy.png" width="300">
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DrkBotBase/dylan-rest)
