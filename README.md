@@ -92,26 +92,6 @@ Then Browse http://localhost:5000 . You will see the Homepage.
 | Youtube MP3          |  /ytmp3?url=    |  url & apikey    |
 | Youtube MP4          |  /ytmp4?url=    |  url & apikey    |
 | Youtube Play         |  /ytplay?query= |  query & apikey  |
-| Random Quotes        |  /quotes        |  apikey          |
-| Random Fakta         |  /fakta         |  apikey          |
-| Random Kata Bijak    |  /bijak         |  apikey          |
-| Random Kata Motivasi |  /motivasi      |  apikey          |
-| Random Ptl           |  /ptl           |  apikey          |
-| Cak Lontong          |  /caklontong    |  apikey          |
-
-If you want to unlock Premium Feature, please contact me ([WhatsApp](https://api.whatsapp.com/send/?phone=573508770421&text&app_absent=0))
-
-|     Premium               |  Availability  |
-| :--------------:          | :------------: |
-| Premium User              |   ✔️           |
-| Added Premium Apikey      |   ✔️           |
-| Delete Premium Apikey     |   ✔️           |
-| Limit Apikey              |   ✔️           |
-| Custom Limit Apikey       |   ✔️           |
-| Custom Apikey             |   ✔️           |
-| Expired Premium User      |   ✔️           |
-| Reset All Limit every day 8am |   ✔️           |
-| Reset One Limit           |   ✔️           |
 
 # Deploy Heroku
 
