@@ -1,0 +1,7 @@
+{
+	"name": "dylan-rest",
+	"description": "my project..",
+	"repository": "https://github.com/DrkBotBase/dylan-rest",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["nodejs", "automate"]
+}
